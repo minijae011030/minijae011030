@@ -1,4 +1,3 @@
-### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=minijae011030)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **minijae011030/minijae011030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
