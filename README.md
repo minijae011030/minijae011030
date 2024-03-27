@@ -28,3 +28,12 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minijae011030&show_icons=true&theme=radical)
 
 </div>
+
+<div align=center>
+ 
+### My Language Usages
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minijae011030&langs_count=8)](https://github.com/minijae011030/github-readme-stats)
+
+</div>
+ 
