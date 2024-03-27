@@ -1,8 +1,8 @@
-# trophy
+### trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=minijae011030)](https://github.com/ryo-ma/github-profile-trophy)
 <hr/>
 
-# language
+### language
 <div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
