@@ -2,7 +2,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=minijae011030)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### language
-<div>
+ <div align=center>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
