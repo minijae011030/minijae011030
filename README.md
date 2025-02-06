@@ -1,13 +1,8 @@
 
 <div align=center>
-
-## 블로그
-[개발 블로그](https://blog.minjae-dev.com)
-## 포트폴리오
-[포트폴리오](https://portfolio.minjae-dev.com)
-
-## 교육
-2020.03 - 2025.02 세종대학교 외식경영학과(주)/컴퓨터공학과(복)
+  
+## trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=minijae011030)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 기술 스택
@@ -28,9 +23,17 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-## trophy
+## 개인 작업물
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=minijae011030)](https://github.com/ryo-ma/github-profile-trophy)
+개발 블로그: [blog.minjae-dev.com](https://blog.minjae-dev.com)
+
+포트폴리오: [portfolio.minjae-dev.com](https://portfolio.minjae-dev.com)
+
+## 교육
+2020.03 - 2025.02 세종대학교 외식경영학과(주) / 컴퓨터공학과(복)
+
+
+
 
 </div>
 
