@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A59292&height=200&section=header&text=강민재&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A59292&height=200&section=header&text=Ian&fontSize=50" />
 
 
 ## 기술 스택
