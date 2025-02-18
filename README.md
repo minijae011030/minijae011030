@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A59292&height=200&section=header&text=Ian&fontSize=50" />
 
 
+
 ## 기술 스택
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,5 +36,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=minijae011030)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
 
