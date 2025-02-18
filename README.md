@@ -24,6 +24,8 @@
 
 **개발 블로그**: [blog.minjae-dev.com](https://blog.minjae-dev.com)
 
+**이력서**: [resume.minjae-dev.com](https://resume.minjae-dev.com)
+
 **포트폴리오**: [portfolio.minjae-dev.com](https://portfolio.minjae-dev.com)
 
 ## 교육
