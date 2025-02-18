@@ -1,5 +1,5 @@
 
-<div align=center>
+# 강민재
   
 ## trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=minijae011030)](https://github.com/ryo-ma/github-profile-trophy)
@@ -32,9 +32,10 @@
 ## 교육
 2020.03 - 2025.02 세종대학교 외식경영학과(주) / 컴퓨터공학과(복)
 
+2025.03 - 2025.08 KB IT's your life 6기
 
 
 
-</div>
+
 
 
