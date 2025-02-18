@@ -1,8 +1,5 @@
-<div align="center">
-  
-# 강민재
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A59292&height=200&section=header&text=강민재&fontSize=50" />
 
-</div>
 
 ## 기술 스택
 
