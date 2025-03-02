@@ -33,9 +33,5 @@
 
 2025.03 - 2025.08 **KB IT's your life 6기**
 
-
-## trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=minijae011030)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
