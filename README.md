@@ -32,6 +32,3 @@
 2020.03 - 2025.02 **세종대학교 외식경영학과(주) / 컴퓨터공학과(복)**
 
 2025.03 - 2025.08 **KB IT's your life 6기**
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
