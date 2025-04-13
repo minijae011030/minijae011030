@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A59292&height=200&section=header&text=Ian&fontSize=50" />
 
+# 빠르게 성장하고 있는 프론트엔드 개발자 강민재입니다.
 
 
 ## 기술 스택
