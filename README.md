@@ -57,7 +57,7 @@
     <li>SEO 최적화를 위한 메타태그 동적 설정</li>
 </ul>
 
----
+# 
 
 <h3>Antiheimer - AI 치매 진단 앱 <span style="font-size: 0.9rem;">(2024.08 ~ 2024.10)</span></h3>
 <p><strong>구성:</strong> 백엔드 2명, 프론트엔드 1명, AI 개발자 1명</p>
@@ -81,7 +81,7 @@
     <li>AI 예측 결과를 REST API 통해 앱에 반영</li>
 </ul>
 
----
+# 
 
 <h3>Petfinity - 반려동물 AI 건강 진단 앱 <span style="font-size: 0.9rem;">(2024.04 ~ 2024.05)</span></h3>
 <p><strong>구성:</strong> 백엔드 2명, 프론트엔드 1명, AI 개발자 1명</p>
@@ -106,7 +106,7 @@
     <li>서버·AI 모델 연동 및 에러 핸들링 처리</li>
 </ul>
 
----
+# 
 
 ## 교육
 
