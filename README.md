@@ -46,8 +46,8 @@
 </p>
 
 <p>
-    🔗 <a href="https://blog.minjae-dev.com" target="_blank">프로젝트 링크</a> |  
-    <a href="https://github.com/Dong-Ian/blog-typescript" target="_blank">GitHub</a> | <a href="https://github.com/Dong-Ian/blog-nextjs" target="_blank">Next.js GitHub</a> 
+    🔗 <a href="https://blog.minjae-dev.com" target="_blank">프로젝트 링크</a> | <a href="https://github.com/Dong-Ian/blog-front" target="_blank">v1 GitHub</a> | 
+    <a href="https://github.com/Dong-Ian/blog-typescript" target="_blank">v2 GitHub</a> | <a href="https://github.com/Dong-Ian/blog-nextjs" target="_blank">v3 GitHub</a> 
 </p>
 <details>
 <summary>주요 업무</summary>
