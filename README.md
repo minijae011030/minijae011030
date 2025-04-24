@@ -16,7 +16,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -31,9 +31,8 @@
 
 ## 프로젝트
 
-<h3>웹 블로그 개발 프로젝트 <span style="font-size: 0.9rem;">(2024.07 ~ 현재)</span></h3>
+<h3>웹 블로그 개발 프로젝트 <span style="font-size: 0.9rem;">(2024.07 ~ 2025.04)</span></h3>
 <p><strong>구성:</strong> BE 1명, FE 1명</p>
-<p><strong>진행 상황:</strong> 현재 프로젝트는 Next.js 기반으로 마이그레이션 진행 중입니다.</p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,7 +41,7 @@
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 </p>
 
 <p>
@@ -53,9 +52,10 @@
 <summary>주요 업무</summary>
 <ul>
     <li>프론트엔드 전반 구현 및 컴포넌트 설계</li>
-    <li>React Query를 활용한 API 캐싱 및 서버 상태 관리</li>
-    <li>JWT 기반 인증, HttpOnly Cookie 적용</li>
-    <li>SEO 최적화를 위한 메타태그 동적 설정</li>
+    <li>기존 React SPA를 App Router 기반 Next.js로 마이그레이션</li>
+    <li>SSR 및 SEO 최적화를 고려한 페이지 구조 재설계</li>
+    <li>pnpm + PM2 기반 서버 빌드 및 운영 환경 구성</li>
+    <li>Nginx 리버스 프록시 설정을 통한 도메인 연결</li>
 </ul>
 </details>
 
